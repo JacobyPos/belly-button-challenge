@@ -1,5 +1,5 @@
 # belly-button-challenge
-- Displays belly button bacteria data taken from different demographics
+Displays belly button bacteria data taken from different demographics
 
 - index.html file:
     - opens webpage to display belly button bacteria info
